@@ -1,6 +1,4 @@
-#Connect 4 
-
-<br/>
+# Connect 4 
 
 **Tecnologias utilizadas**
 
